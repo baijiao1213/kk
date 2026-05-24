@@ -1,0 +1,23 @@
+{
+  "level_region": [
+    284,
+    876,
+    79,
+    56
+  ],
+  "stats_region": [
+    434,
+    871,
+    719,
+    274
+  ],
+  "timings": {
+    "tap_delay": 0.2,
+    "detail_wait": 0.5,
+    "ocr_wait": 0.2,
+    "action_wait": 0.3,
+    "page_turn_wait": 1.5,
+    "random_min": 0.1,
+    "random_max": 0.3
+  }
+}
